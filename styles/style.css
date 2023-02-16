@@ -1,7 +1,7 @@
 body {
   background-color: rgb(29, 29, 29);
   color: white;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-family: Nunito, sans-serif;
   /* font-family: Roboto, sans-serif; */
 }
@@ -13,7 +13,7 @@ body > div {
 h3 {
   margin: 0 auto;
   width: fit-content;
-  font-size: 3rem;
+  font-size: 2rem;
   padding: 20px;
   color: rgb(133 122 255);
   user-select: none;
@@ -21,7 +21,7 @@ h3 {
 
 h3 span {
   font-family: roboto;
-  font-size: 2rem;
+  font-size: 1.5rem;
   vertical-align: middle;
   color: burlywood;
   /* letter-spacing: 0.1rem; */
@@ -31,7 +31,6 @@ h3 span {
 h3 span::selection {
   background-color: rgb(133 122 255);
   color: white;
-  border-radius: 8px;
 }
 
 .item {
